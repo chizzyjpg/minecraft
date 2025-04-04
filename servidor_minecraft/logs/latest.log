@@ -1,0 +1,93 @@
+[12:01:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:01:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:01:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:01:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:01:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:01:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:01:28] [main/INFO]: Reloading ResourceManager: Default
+[12:01:29] [Worker-Main-4/INFO]: Loaded 7 recipes
+[12:01:30] [Worker-Main-4/INFO]: Loaded 927 advancements
+[12:01:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[12:01:31] [Server thread/INFO]: Loading properties
+[12:01:31] [Server thread/INFO]: Default game type: SURVIVAL
+[12:01:31] [Server thread/INFO]: Generating keypair
+[12:01:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:01:32] [Server thread/INFO]: Using epoll channel type
+[12:01:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:01:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:01:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:01:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:01:32] [Server thread/INFO]: Preparing level "world"
+[12:01:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:01:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:01:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:01:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:01:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:01:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:01:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:01:40] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[12:01:41] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[12:01:41] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[12:01:42] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[12:01:42] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[12:01:43] [Worker-Main-4/INFO]: Preparing spawn area: 6%
+[12:01:43] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[12:01:44] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[12:01:44] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[12:01:45] [Worker-Main-5/INFO]: Preparing spawn area: 13%
+[12:01:45] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[12:01:46] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[12:01:46] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[12:01:47] [Worker-Main-4/INFO]: Preparing spawn area: 20%
+[12:01:47] [Worker-Main-5/INFO]: Preparing spawn area: 20%
+[12:01:48] [Worker-Main-5/INFO]: Preparing spawn area: 23%
+[12:01:48] [Worker-Main-4/INFO]: Preparing spawn area: 25%
+[12:01:49] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[12:01:49] [Worker-Main-5/INFO]: Preparing spawn area: 30%
+[12:01:50] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[12:01:50] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[12:01:51] [Worker-Main-6/INFO]: Preparing spawn area: 35%
+[12:01:51] [Worker-Main-4/INFO]: Preparing spawn area: 37%
+[12:01:52] [Worker-Main-4/INFO]: Preparing spawn area: 37%
+[12:01:52] [Worker-Main-4/INFO]: Preparing spawn area: 37%
+[12:01:53] [Worker-Main-5/INFO]: Preparing spawn area: 42%
+[12:01:54] [Worker-Main-5/INFO]: Preparing spawn area: 45%
+[12:01:54] [Worker-Main-6/INFO]: Preparing spawn area: 47%
+[12:01:55] [Worker-Main-6/INFO]: Preparing spawn area: 50%
+[12:01:55] [Worker-Main-6/INFO]: Preparing spawn area: 50%
+[12:01:56] [Worker-Main-4/INFO]: Preparing spawn area: 57%
+[12:01:56] [Worker-Main-4/INFO]: Preparing spawn area: 57%
+[12:01:57] [Worker-Main-5/INFO]: Preparing spawn area: 62%
+[12:01:57] [Worker-Main-4/INFO]: Preparing spawn area: 66%
+[12:01:58] [Worker-Main-4/INFO]: Preparing spawn area: 69%
+[12:01:58] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[12:01:58] [Worker-Main-5/INFO]: Preparing spawn area: 73%
+[12:01:59] [Worker-Main-4/INFO]: Preparing spawn area: 77%
+[12:02:00] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[12:02:00] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[12:02:00] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[12:02:02] [Worker-Main-4/INFO]: Preparing spawn area: 91%
+[12:02:02] [Worker-Main-4/INFO]: Preparing spawn area: 91%
+[12:02:02] [Worker-Main-6/INFO]: Preparing spawn area: 97%
+[12:02:02] [Server thread/INFO]: Time elapsed: 24534 ms
+[12:02:02] [Server thread/INFO]: Done (29.834s)! For help, type "help"
+[12:02:28] [Server thread/INFO]: ChizzyJpg[/100.102.17.7:60071] logged in with entity id 267 at (-53.5, 69.0, 167.5)
+[12:02:28] [Server thread/INFO]: ChizzyJpg joined the game
+[12:02:45] [Server thread/INFO]: ChizzyJpg lost connection: Disconnected
+[12:02:45] [Server thread/INFO]: ChizzyJpg left the game
+[12:04:17] [Server thread/INFO]: ChizzyJpg[/100.102.17.7:60090] logged in with entity id 397 at (-58.69999998807907, 70.0, 168.69999998807907)
+[12:04:17] [Server thread/INFO]: ChizzyJpg joined the game
+[12:04:41] [Server thread/INFO]: ChizzyJpg lost connection: Disconnected
+[12:04:41] [Server thread/INFO]: ChizzyJpg left the game
+[12:10:30] [Server thread/INFO]: ChizzyJpg[/100.102.17.7:60125] logged in with entity id 514 at (-95.39722820626912, 71.0, 180.93385880465857)
+[12:10:30] [Server thread/INFO]: ChizzyJpg joined the game
+[12:10:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:10:44] [Server thread/INFO]: / kick ChizzyJpg<--[HERE]
+[12:10:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:10:49] [Server thread/INFO]: <--[HERE]
+[12:10:55] [Server thread/INFO]: ChizzyJpg lost connection: Disconnected
+[12:10:55] [Server thread/INFO]: ChizzyJpg left the game
+[12:10:56] [Server thread/INFO]: ChizzyJpg[/100.102.17.7:60133] logged in with entity id 561 at (-95.39722820626912, 71.0, 180.93385880465857)
+[12:10:56] [Server thread/INFO]: ChizzyJpg joined the game
+[12:11:02] [Server thread/INFO]: ChizzyJpg lost connection: Disconnected
+[12:11:02] [Server thread/INFO]: ChizzyJpg left the game
